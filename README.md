@@ -4,7 +4,7 @@
 <h3 align="center">A passionate developer from Bangladesh , still learning and gowning.</h3>
 <br>
 <img align="right" alt="Coding" width= "320" src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif">
-
+<br>
 - 🔭 I’m currently working on **My website**
 
 - 🌱 I’m currently learning **C, C++, HTML, CSS**
@@ -35,9 +35,6 @@
 </div>
 
 ###
-<br>
-<br>
-<br>
 <br>
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Shadow-ranger01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" />
