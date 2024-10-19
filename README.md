@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rafi Alam</h1>
 <h3 align="center">A passionate developer and a student from Bangladesh, still learning and growing.</h3>
 <br>
-<img align="right" alt="Coding" width= "320" src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif">
+<img align="right" alt="Coding" width= "280" src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif">
 
 - 🔭 I’m currently working on **My website**
 
