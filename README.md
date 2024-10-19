@@ -4,7 +4,7 @@
 <h3 align="center">A passionate developer from Bangladesh , still learning and gowning.</h3>
 <br>
 <img align="right" alt="Coding" width= "320" src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif">
-<br>
+
 - 🔭 I’m currently working on **My website**
 
 - 🌱 I’m currently learning **C, C++, HTML, CSS**
