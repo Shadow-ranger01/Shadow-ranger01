@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/d5/f3/e7/d5f3e7e33f8072785936fe88cd16f502.gif)
 
 <h1 align="center">Hi 👋, I'm Muhammad Rafi Alam</h1>
-<h3 align="center">A passionate developer from Bangladesh , still learning and gowning.</h3>
+<h3 align="center">A passionate developer and a student from Bangladesh , still learning and gowning.</h3>
 <br>
 <img align="right" alt="Coding" width= "320" src="https://i.pinimg.com/originals/54/b5/b5/54b5b572a814ce721e1b01adabed5c84.gif">
 
