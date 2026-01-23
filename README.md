@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/32/29/57/322957fb8a1a4d7b59b7ae5c3e036db1.gif)
+![MasterHead](https://i.pinimg.com/originals/51/fb/c1/51fbc1580d851731dbf7a60cf68fea27.gif)
 
 <h1 align="center">Hi 👋, I'm Muhammad Rafi Alam</h1>
 <h3 align="center">A passionate developer and a student from Bangladesh, still learning and growing.</h3>
