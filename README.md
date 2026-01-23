@@ -1,4 +1,8 @@
-![MasterHead](i.pinimg.com/originals/51/fb/c1/51fbc1580d851731dbf7a60cf68fea27.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/87/09/10/870910a75f200d9222428041650c0225.gif"
+       alt="MasterHead"
+       width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Rafi Alam</h1>
 <h3 align="center">A passionate developer and a student from Bangladesh, still learning and growing.</h3>
