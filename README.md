@@ -41,17 +41,7 @@
 ###
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Shadow-ranger01&show_icons=true&theme=vision-pro"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Shadow-ranger01&show_icons=true&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Shadow-ranger01&show_icons=true" alt="Shadow-ranger01's GitHub Stats" />
-</picture>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-ranger01&layout=donut)](https://github.com/EthanJamesLew/github-readme-stats-academic)
 
 
 ###
