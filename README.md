@@ -34,12 +34,17 @@
 ###
 
 
-<h3 align="left">Most Used Languages:</h3>
-<div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-ranger01&layout=donut&theme=vision-pro" alt="Shadow-ranger01's Top Langs" width="350" />
-  </a>
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Shadow-ranger01&show_icons=true&theme=vision-pro"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Shadow-ranger01&show_icons=true&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shadow-ranger01&show_icons=true" alt="Shadow-ranger01's GitHub Stats" />
+</picture>
 
 ###
 <br>
