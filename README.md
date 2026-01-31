@@ -35,9 +35,11 @@
 
 
 <h3 align="left">Most Used Languages:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-ranger01&layout=compact&theme=vision-pro&cache_seconds=1800" />
-</p>
+<div align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-ranger01&layout=donut&theme=vision-pro" alt="Shadow-ranger01's Top Langs" width="350" />
+  </a>
+</div>
 
 ###
 <br>
